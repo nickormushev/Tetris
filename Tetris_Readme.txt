@@ -1,0 +1,3 @@
+These are the instruction for running my ncurses Tetris project. The Tetris game runs in the console and the only thing you need to do is install ncurses and use the g++ ncursesTetrisComplete.cpp -lncurses command which will generate an ./a.out file. Afterwards you must run the file from the console and that will start the game.
+
+The project uses the simple logic of having two arrays - one for the board and one for the figure. The second one is used for placing the figure on the board and changing the coordinates. Using this main logic I built this whole project. I do not know what more this documentation must include so I will leave it here.

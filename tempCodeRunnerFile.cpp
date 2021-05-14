@@ -1,0 +1,1 @@
+fig.a[i - fig.yOffset][j - fig.xOffset]

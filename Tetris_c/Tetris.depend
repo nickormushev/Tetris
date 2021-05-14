@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1477296771 source:c:\users\nikolaypk\desktop\new folder\main.cpp
+	"Api/Api.h"
+	<stdlib.h>
+
+1474248210 c:\users\nikolaypk\desktop\new folder\api\api.h
+	"Common.h"
+	"Time.h"
+	"Graphics.h"
+	"Turtle.h"
+
+1474378443 c:\users\nikolaypk\desktop\new folder\api\common.h
+
+1474379999 c:\users\nikolaypk\desktop\new folder\api\time.h
+	"Common.h"
+
+1474379036 c:\users\nikolaypk\desktop\new folder\api\graphics.h
+	"Common.h"
+	"Time.h"
+
+1476356370 c:\users\nikolaypk\desktop\new folder\api\turtle.h
+	"Common.h"
+	"Graphics.h"
+
+1478183077 source:c:\users\pe6o\desktop\niki\new folder\main.cpp
+	"Api/Api.h"
+	<stdlib.h>
+
+1474244610 c:\users\pe6o\desktop\niki\new folder\api\api.h
+	"Common.h"
+	"Time.h"
+	"Graphics.h"
+	"Turtle.h"
+
+1474374843 c:\users\pe6o\desktop\niki\new folder\api\common.h
+
+1474376399 c:\users\pe6o\desktop\niki\new folder\api\time.h
+	"Common.h"
+
+1474375436 c:\users\pe6o\desktop\niki\new folder\api\graphics.h
+	"Common.h"
+	"Time.h"
+
+1476352770 c:\users\pe6o\desktop\niki\new folder\api\turtle.h
+	"Common.h"
+	"Graphics.h"
+
